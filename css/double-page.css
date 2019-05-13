@@ -2,8 +2,9 @@
 
 body{
 	overflow:hidden;
-	background-color:#fcfcfc;
-	margin:0;
+/*	background-color:#fcfcfc;
+*/	margin:0;
+	background-image:url(../deskbg.jpg);
 	padding:0;
 }
 
@@ -21,10 +22,10 @@ body{
 }
 
 .flipbook-viewport .flipbook{
-	width:1200px;
-	height:600px;
-	left:-600px;
-	top:-300px;
+	width:1300px;
+	height:650px;
+	left:-650px;
+	top:-325px;
 /*	width:800px;
 	height:400px;
 	left:-400px;
@@ -34,8 +35,8 @@ body{
 .flipbook-viewport .page{
 /*	width:400px;
 	height:400px;*/
-	width:600px;
-	height:600px;
+	width:650px;
+	height:650px;
 	background-color:white;
 	background-repeat:no-repeat;
 	background-size:100% 100%;
@@ -75,7 +76,7 @@ body{
 .flipbook-viewport .double{
 /*	width:800px;
 	height:400px;*/
-	width:1200px;
-	height:600px;
+	width:1300px;
+	height:650px;
 	background-size:100% 100%;
 }
