@@ -1,1 +1,0 @@
-# gnahzak.github.io
