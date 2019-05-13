@@ -5,6 +5,7 @@ body{
 /*	background-color:#fcfcfc;
 */	margin:0;
 	background-image:url(../regimentbg.jpg);
+	background-size: cover;
 	padding:0;
 }
 
